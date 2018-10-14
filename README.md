@@ -5,9 +5,7 @@
 `TODO://` This app shows a question and allows the user to tap on the screen for the invisible answer to appear. The question and answer have different colors helping the user see the difference between them.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://i.imgur.com/8XtjW0H.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
